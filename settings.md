@@ -11,7 +11,7 @@
 
 ## 3. PX4 펌웨어 다운로드
 1. cd ~
-2. git clone https://github.como/PX4/Firmware.git --recursive
+2. git clone https://github.com/PX4/Firmware.git --recursive
 3. cd ~/Firmware
 4. bash ./Tools/setup/ubuntu.sh
 5. git checkout v1.10.1
